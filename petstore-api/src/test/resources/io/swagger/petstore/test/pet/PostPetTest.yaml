@@ -1,0 +1,12 @@
+---
+id: 1
+category:
+  id: 2
+  name: cet
+name: pet
+photoUrls:
+  -     src/test/resources/io/swagger/petstore/test/pet/images.jpg
+tags:
+  - id: 3
+    name: dog
+status: available

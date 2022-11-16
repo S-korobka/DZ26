@@ -1,0 +1,17 @@
+---
+- id: 1
+  username: Serhii
+  firstName: Serhii
+  lastName: K
+  email: cemion1@gmail.com
+  password: Qweasd123
+  phone: 12345678
+  userStatus: 1
+- id: 2
+  username: cemion
+  firstName: cemionF
+  lastName: cemionL
+  email: cemion2@gmail.com
+  password: Qweasd123
+  phone: 87654321
+  userStatus: 0
